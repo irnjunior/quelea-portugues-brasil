@@ -1,4 +1,4 @@
-# Quelea Projeção: Material de apoio em português
+# Quelea Projeção: Material de apoio em português brasileiro
 Este projeto tem o objetivo de contribuir com de materiais de apoio em português brasileiro para o software de projeção Quelea em um único local.
 
 # O que está contido no projeto?
