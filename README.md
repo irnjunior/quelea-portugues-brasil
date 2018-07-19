@@ -9,4 +9,3 @@ Este projeto tem o objetivo de contribuir com de materiais de apoio em portuguê
 # Onde eu encontro e baixo o Quelea?
 Você pode baixar no repositório oficial através do link:
 https://github.com/quelea-projection/Quelea
-
