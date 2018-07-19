@@ -7,10 +7,10 @@ Este projeto tem o objetivo de contribuir com de materiais de apoio em portuguê
 - Manual do software em Português
 
 # Importando as bíblias:
-Abra o Queleua, vá no menu Ferramentas -> Opções, na guia Bíblia clique em "Adicionar Bíblia" e carregue o XML com a verão da bíblia escolhida.
+Abra o Quelea, vá no menu Ferramentas -> Opções, na guia Bíblia clique em "Adicionar Bíblia" e carregue o XML com a verão da bíblia escolhida.
 
 # Importando os Hinários:
-Abra o Queleua, vá no menu Banco de Dados -> Importar -> Pacote de Canções do Quelea e carregue o arquivo com as músicas na extensão QSP.
+Abra o Quelea, vá no menu Banco de Dados -> Importar -> Pacote de Canções do Quelea e carregue o arquivo com as músicas na extensão QSP.
 
 # Onde eu encontro e baixo o Quelea?
 Você pode baixar no repositório oficial através do link:
