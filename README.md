@@ -21,3 +21,6 @@ Abra o Quelea, vá no menu Banco de Dados -> Importar -> Pacote de Canções do 
 # Onde eu encontro e baixo o Quelea?
 Você pode baixar do repositório oficial através do link:
 https://github.com/quelea-projection/Quelea
+
+# Direito autoral
+As traduções bíblicas deste projeto são de autoria e propriedade intelectual da Sociedade Bíblica Internacional (NVI), da Sociedade Bíblica Trinitariana (ACF) e da Imprensa Bíblica Brasileira (AA). Todos os direitos reservados aos autores.
