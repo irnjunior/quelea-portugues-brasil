@@ -3,7 +3,8 @@ Este projeto tem o objetivo de contribuir com de materiais de apoio em portuguê
 
 # O que está contido no projeto?
 - Atualmente o projeto conta com três versões da Bíblia Sagrada em Português Brasileiro (pt-BR).
-- Hinário da Harpa Cristã contendo as 640 músicas
+- Hinário das Assembléias de Deus (Harpa Cristã) contendo 640 músicas
+- Hinário da Igrejas Batistas (Cantor Cristão) contendo 581 músicas
 - Manual do software em Português
 
 # Importando as bíblias:
