@@ -32,7 +32,7 @@ Descompacte em uma pasta no seu computador. Depois siga as etapas abaixo:
 - Clique em "Clique para selecionar arquivo"
 - Localize a pasta onde estão os arquivos que você baixou
 - Abra a pasta “Hinários“
-- Abra o arquivo com o Hinário desejado (extensão QSP)
+- Carregue o arquivo com o Hinário desejado (extensão QSP)
 - Clique em "Importar"
 - Clique em "Marcar/Desmarcar tudo" caso queira importar todas as músicas, ou selecione as que você quer importar
 - Clique em "Adicionar"
