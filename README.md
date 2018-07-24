@@ -16,7 +16,13 @@ Para utilizar, baixe o arquivo ZIP contido nesse repositório:
 Descompacte em uma pasta no seu computador. Depois siga as etapas abaixo:
 
 ## Importando Bíblias
-Abra o Quelea, vá no menu Ferramentas -> Opções, na guia Bíblia clique em "Adicionar Bíblia" e carregue o XML com a verão da bíblia escolhida.
+1 - Abra o Quelea
+2 - Vá no menu Ferramentas
+3 - Depois em Opções
+4 - Na guia Bíblia clique em “Adicionar Bíblia“
+5 - Localize a pasta onde estão os arquivos que você baixou
+6 - Abra a pasta “Bíblias“
+7 - Carregue o XML com a verão da bíblia escolhida
 
 ## Importando Hinários
 Abra o Quelea, vá no menu Banco de Dados -> Importar -> Pacote de Canções do Quelea, e carregue o arquivo com as músicas na extensão QSP.
