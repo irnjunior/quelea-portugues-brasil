@@ -25,7 +25,17 @@ Descompacte em uma pasta no seu computador. Depois siga as etapas abaixo:
 - Carregue o XML com a versão da bíblia escolhida
 
 ## Importando Hinários
-Abra o Quelea, vá no menu Banco de Dados -> Importar -> Pacote de Canções do Quelea, e carregue o arquivo com as músicas na extensão QSP.
+- Abra o Quelea
+- Vá no menu "Banco de Dados"
+- Depois em "Importar"
+- Clique em "Pacote de Canções do Quelea"
+- Clique em "Clique para selecionar arquivo"
+- Localize a pasta onde estão os arquivos que você baixou
+- Abra a pasta “Hinários“
+- Abra o arquivo com o Hinário desejado (extensão QSP)
+- Clique em "Importar"
+- Clique em "Marcar/Desmarcar tudo" caso queira importar todas as músicas, ou selecione as que você quer importar
+- Clique em "Adicionar"
 
 ## Onde eu encontro e baixo o Quelea?
 Você pode baixar do repositório oficial através do link:
