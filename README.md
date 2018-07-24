@@ -21,7 +21,7 @@ Descompacte em uma pasta no seu computador. Depois siga as etapas abaixo:
 - Depois em Opções
 - Na guia Bíblia clique em “Adicionar Bíblia“
 - Localize a pasta onde estão os arquivos que você baixou
-- Abra a pasta “Bíblias“
+- Abra a pasta “Biblias“
 - Carregue o XML com a verão da bíblia escolhida
 
 ## Importando Hinários
