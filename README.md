@@ -22,7 +22,7 @@ Descompacte em uma pasta no seu computador. Depois siga as etapas abaixo:
 - Na guia Bíblia clique em “Adicionar Bíblia“
 - Localize a pasta onde estão os arquivos que você baixou
 - Abra a pasta “Biblias“
-- Carregue o XML com a verão da bíblia escolhida
+- Carregue o XML com a versão da bíblia escolhida
 
 ## Importando Hinários
 Abra o Quelea, vá no menu Banco de Dados -> Importar -> Pacote de Canções do Quelea, e carregue o arquivo com as músicas na extensão QSP.
