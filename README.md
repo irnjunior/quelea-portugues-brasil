@@ -1,6 +1,8 @@
 # Quelea Projeção: Material de apoio em português brasileiro
 Este projeto tem o objetivo de contribuir com de materiais de apoio em português brasileiro para o software de projeção Quelea em um único local.
 
+[**BAIXAR**](https://github.com/irnjunior/quelea-portugues-brasil/archive/master.zip)
+
 ## O que está contido no projeto?
 - Três versões da Bíblia Sagrada em Português Brasileiro (pt-BR).
 - Harpa Cristã (Hinário da Igreja Assembleia de Deus) contendo 640 músicas
